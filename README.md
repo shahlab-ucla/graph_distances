@@ -1,5 +1,6 @@
 # graph_distances
-Codebase for computing distances between lineage trees
+Codebase for computing distances between lineage trees described in our preprint:
+https://www.biorxiv.org/content/10.1101/2023.05.12.540617v1
 
 Listed below are jupyter notebooks used to generate the data necessary to reproduce each of the main and supplemental figures for the publication. The main and supplemental figures are produced by distinct notebooks, each with different parent folders and input data. (due to distinct file pathing requirements)
 
