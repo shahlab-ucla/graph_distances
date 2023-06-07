@@ -8,3 +8,5 @@ These notebooks, if put into the appropriate environments and run, will produce 
 
 Raw lineage data was procured from [http://digital-development.org/](http://digital-development.org/download.html) and was initially described in this publication:
 Du, Z, Santella, A, He, F, Shah, PK, Kamikawa, Y and Bao, Z. (2015). The regulatory landscape of lineage differentiation in a Metazoan embryo. Developmental Cell, 34(5), 592-607.
+
+[![DOI](https://zenodo.org/badge/640117393.svg)](https://zenodo.org/badge/latestdoi/640117393)
