@@ -1,1 +1,15 @@
-Please cite this manuscript if you use the code provided here in a publication: https://www.biorxiv.org/content/10.1101/2023.05.12.540617v2
+ff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Natesan"
+  given-names: "Gunalan"
+- family-names: "Hamilton"
+  given-names: "Timothy"
+- family-names: "Deeds"
+  given-names: "Eric J"
+- family-names: "Shah"
+  given-names: "Pavak K"
+title: "Graph_distances"
+version: 1.1.0
+date-released: 2023-11-14
+url: "https://github.com/shahlab-ucla/graph_distances"
